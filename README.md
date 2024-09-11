@@ -1,4 +1,4 @@
-# 🧑‍💻 [Your Name]'s Portfolio
+# 🧑‍💻 Pratham Srivastava Portfolio
 
 Welcome to my personal portfolio! I am a highly skilled and passionate software engineer with over 3 years of experience in the IT industry. My expertise lies in building dynamic and responsive web applications, creating seamless user experiences, and solving complex problems through code. I am always keen on learning new technologies and applying them in innovative ways.
 
