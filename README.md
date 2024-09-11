@@ -1,30 +1,56 @@
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
+# 🧑‍💻 [Your Name]'s Portfolio
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+Welcome to my personal portfolio! I am a highly skilled and passionate software engineer with over 3 years of experience in the IT industry. My expertise lies in building dynamic and responsive web applications, creating seamless user experiences, and solving complex problems through code. I am always keen on learning new technologies and applying them in innovative ways.
 
-## What you will learn
+## 🌟 About Me
 
-- Latest Next.js 13 features
-- Next.js App Router
-- Next.js Server Actions
-- Client & Server Components
-- TypeScript (Beginner & Intermediate)
-- Tailwind CSS
-- Context API
-- Advanced Animations with Framer Motion
-- React.Email & Resend
-- Custom React hooks
-- Fresh, modern UI design
-- Light & Dark mode
-- Responsive website
+- 🚀 **Software Engineer** at GlobalLogic, currently working with Google as a client.
+- 🎓 Graduated from **AKGEC** in 2021.
+- 🛠️ Proficient in **React.js**, **HTML5**, **CSS3**, **JavaScript**, **Node.js**, **Express.js**, and **MySQL**.
+- 📈 Proven track record of designing secure platforms, optimizing systems, and enhancing productivity through innovative solutions.
+- 🏆 Recognized with awards for outstanding contributions at **Paytm** and **Tata Consultancy Services**.
 
-## Important
+## 🔧 Tech Stack
 
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
+- **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript, Redux, Tailwind CSS, Bootstrap, Ant Design
+- **Backend:** Node.js, Express.js, Java, Python, Spring, Hibernate, PL Scripts
+- **Database:** MySQL, MongoDB, BigQuery
+- **Others:** JWT Authentication, Microservices Architecture, TestNG, Zod, Prisma
 
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
+## 💼 Professional Experience
 
-## Setup
+- **Frontend Developer** at **Wipro**: Worked on projects for the National Stock Exchange (NSE) and telecom, creating user-friendly interfaces and improving component workflows.
+- **Frontend Developer** at **GlobalLogic**: Developed the Google CQO dashboard, enhancing the user experience and increasing productivity by 34%.
+- **B2B Applications**: Implemented JWT authentication to improve security and user management.
 
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+## 🛠️ Projects
+
+### [Google CQO Dashboard](#)
+An interactive dashboard built with React.js, HTML, CSS, and JavaScript, which improved optimizer quality by 9% and boosted productivity by 34%.
+
+### [To-Do Project](#)
+A full-stack application with a focus on clean, maintainable code and robust documentation. It includes JWT authentication and a responsive UI.
+
+### [B2B Application](#)
+Enhanced security and user management by implementing JWT authentication, significantly improving the application's security measures.
+
+## 🥇 Achievements
+
+- Improved system performance for major clients through optimization and architectural overhauls.
+- Mentored junior developers in transitioning to Microservices architecture.
+- Recognized for outstanding contributions at Paytm and TCS.
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [Your LinkedIn](#)
+- **GitHub:** [Your GitHub](#)
+- **Email:** [Your Email](mailto:your.email@example.com)
+
+## 🎮 Hobbies
+
+Outside of work, I enjoy playing video games, watching movies, playing with my dog, and learning new things, including history, philosophy, and guitar.
+
+---
+
+Feel free to explore my projects and connect with me. I'm always excited to collaborate on new and challenging ideas!
+
